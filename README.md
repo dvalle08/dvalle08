@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 I'm Diego Fernando Valle
 
-<!--
-**dvalle08/dvalle08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Engineer** — I research, build, and ship. From exploring open-source models to deploying them as products people can use.
+MSc in Artificial Intelligence, with hands-on experience across computer vision, classical ML, NLP, and generative AI. Currently exploring Voice AI and AI agents in the open-source space.
 
-Here are some ideas to get you started:
+### HuggingFace Space
+- 🎤 [Open Voice Agent](https://huggingface.co/spaces/dvalle08/open-voice-agent) — Real-time Voice AI Assistant Powered by Open-Source Core Components.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Focus areas
+AI Agents · Document Intelligence · Computer Vision · NLP · Analytics · LLMs
+
+### Links
+[![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-dvalle08-yellow)](https://huggingface.co/dvalle08)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Diego%20Valle-blue)](https://www.linkedin.com/in/diego-fernando-valle-ortiz-artificial-intelligence/)
