@@ -1,7 +1,7 @@
 ## Hi there 👋 I'm Diego Valle
 
 **AI/ML Engineer** — I research, build, and ship. From exploring open-source models to deploying them as products people can use.
-MSc in Artificial Intelligence, with hands-on experience across computer vision, classical ML, NLP, and generative AI. Currently exploring Voice AI and AI agents in the open-source space.
+MSc in Artificial Intelligence, with hands-on experience across computer vision, classical ML, NLP, and generative AI. Research-driven, production-minded. Also losing the race against AI, but building along the way.
 
 ### HuggingFace Space
 - 🎤 [Open Voice Agent](https://huggingface.co/spaces/dvalle08/open-voice-agent) — Real-time Voice AI Assistant Powered by Open-Source Core Components.
