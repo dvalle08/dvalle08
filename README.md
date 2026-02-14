@@ -1,6 +1,6 @@
-## Hi there 👋 I'm Diego Fernando Valle
+## Hi there 👋 I'm Diego Valle
 
-**AI Engineer** — I research, build, and ship. From exploring open-source models to deploying them as products people can use.
+**AI/ML Engineer** — I research, build, and ship. From exploring open-source models to deploying them as products people can use.
 MSc in Artificial Intelligence, with hands-on experience across computer vision, classical ML, NLP, and generative AI. Currently exploring Voice AI and AI agents in the open-source space.
 
 ### HuggingFace Space
